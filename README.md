@@ -10,7 +10,9 @@ How it works!
       Be as descriptive as possible with the vacation details and upload the best photos of your holiday.
       Set a selling price for your holiday 
    
-      Vacation will be verified for that added extra layer of security and trust and then post will be approved
+      Vacation will be verified for that added extra layer of security and trust and then post will be approved.
+      After you create or edit an ad, the verification process begins automatically. The content in your ad will be reviewed, including your headline, description,  
+      keywords, destination, and any images and video. The validity of the vacation booking will be done, this detail doesn't appear in the ad itself, it is just for security
       For service costing check-out our pricing structure
        
   For holiday seekers
